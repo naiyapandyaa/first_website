@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.carousel-item img{
+  width:50vw;
+  height:70vh;
+}
+.card img{
+  min-height: 50%;
+  max-width:200px;
+
+}
+.card{
+  height:100%;
+}
+
+.naiya{
+  font-family: "dancing script",cursive;
+}
+
+.container-fluid img{
+  height:50px;
+  width:50px;
+  border: 2px solid transparent;
+}
+
+.container-fluid img:hover{
+  border: 2px solid black;
+}
+
+.nav-item{
+  border: 2px solid transparent;
+}
+
+.nav-item:hover{
+  border: 2px solid black;
+}
+
+.form-control {
+  border: 2px solid transparent;
+}
+
+.form-control:hover {
+  border: 2px solid black;
+}
+
+
